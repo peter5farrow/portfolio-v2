@@ -140,3 +140,15 @@ a:hover {
 .vid-desc {
   margin-bottom: 3rem;
 }
+
+#interests-desc {
+  margin-bottom: 3rem;
+}
+
+.interest-icon {
+  margin-right: 3rem;
+}
+
+#interest-icon-container {
+  display: flex;
+}
